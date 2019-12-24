@@ -20,7 +20,7 @@ print(description)
 gitrepo = pd.DataFrame(
     {
         'Names': names,
-        'description': description,
+        'Description': description,
         'ProgrammingLanguage': programmingLanguage,
     }
 )
